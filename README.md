@@ -36,3 +36,6 @@ Con `--latest` lee solo mensajes nuevos.
 
 ## Evidencia
 ![Gráfica en vivo (JSON)](evidencia/grafica_json.png)
+
+## Presentación
+[Presentación con evidencia y respuestas (PDF)](presentacion/Presentacion_IoT_23415.pdf)
